@@ -32,3 +32,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Deploy on Git
+
+This is a starter template for Learn Next.js.
+
+Upload in main branch PS C:\Users\lenovo\Desktop\CPI\Code\DSCOM\dascom-app> git remote add origin https://github.com/CPI-ORG/DASCOM.git
+
+PS C:\Users\lenovo\Desktop\CPI\Code\DSCOM\dascom-app> git branch -M main
+
+PS C:\Users\lenovo\Desktop\CPI\Code\DSCOM\dascom-app> git push -u origin main
